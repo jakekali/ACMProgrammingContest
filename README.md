@@ -3,5 +3,11 @@ The International Collegiate Programming Contest is an algorithmic programming c
 
 # Cooper Team A Solutions 2021
 ## A-FootballScoring
+- Problem Statement
+- Solution
 ## K-PoolingPCRTests
+- Problem Statement
+- Solution
 ## L-Letterle
+- Problem Statement
+- Solution
